@@ -1,5 +1,8 @@
 fastapi
 uvicorn[standard]
-pypdf
 python-multipart
-apscheduler
+pypdf
+pdf2docx
+Pillow
+aiofiles
+pymupdf
